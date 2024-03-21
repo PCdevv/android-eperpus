@@ -1,5 +1,6 @@
-package com.pcdevv.e_perpus
+package com.pcdevv.e_perpus.api
 
+import com.pcdevv.e_perpus.models.BookResponse
 import retrofit2.Response
 import retrofit2.http.GET
 
